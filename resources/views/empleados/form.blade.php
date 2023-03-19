@@ -1,0 +1,1 @@
+formulario que se repite en create y edit 
